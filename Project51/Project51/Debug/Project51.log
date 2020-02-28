@@ -1,6 +1,0 @@
-﻿  Linear search and Binary search.c
-d:\programe\vs c++\project51\project51\linear search and binary search.c(71): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
-d:\programe\vs c++\project51\project51\linear search and binary search.c(71): warning C4024: 'cautare_binara': different types for formal and actual parameter 3
-d:\programe\vs c++\project51\project51\linear search and binary search.c(71): warning C4024: 'cautare_binara': different types for formal and actual parameter 4
-d:\programe\vs c++\project51\project51\linear search and binary search.c(60): warning C4101: 'left': unreferenced local variable
-LINK : fatal error LNK1104: cannot open file 'D:\Programe\VS C++\Project51\Debug\Project51.exe'
